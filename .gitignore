@@ -1,0 +1,39 @@
+# Бинарные файлы
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Каталоги кэша и сборки
+bin/
+build/
+dist/
+
+# Файлы Go модуля
+vendor/
+
+# Кэш go
+*.log
+*.tmp
+
+# IDE и редакторы
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# MacOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Go tooling
+cover.out
